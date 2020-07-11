@@ -1,0 +1,22 @@
+body {
+    background-color: #F3F1FF;
+}
+
+.header-bg {
+    background-color: #5356A4;
+}
+
+.navbar img {
+    width: 45px;
+}
+
+.player-area {}
+
+h2 {
+    color: #562EFF;
+    margin: 30px 0px;
+}
+
+.player-area img {
+    width: 50px;
+}
